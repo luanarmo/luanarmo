@@ -20,7 +20,7 @@
 | mkdir 	| Used to create a new directory |
 | whoami | Used to display the username of the current user |
 
-### Two useful alias commands for Linux 🐧"
+### Two useful alias commands for Linux 🐧
 
 |   Comando  |    Descripción   |
 |--------------|-----------|
