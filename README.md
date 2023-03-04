@@ -9,3 +9,7 @@
 🔍 I actively seek opportunities that will bring me more knowledge and skills. I am willing to commit 100% to any project that aligns with my career goals.
 
 📒 My native language is Spanish, and I am currently perfecting my English level through language courses and practice.
+
+## 🌐 You can find me on:
+- [Twitter](https://twitter.com/Iuanarmo)
+- [LinkedIn](https://www.linkedin.com/in/luis-angel-arroyo-morales-31b25a1ab)
