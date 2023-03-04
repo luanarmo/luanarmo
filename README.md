@@ -18,7 +18,7 @@
 | cd 	| Used to change the current working directory|
 | pwd 	| Used to print the current working directory |
 | mkdir 	| Used to create a new directory |
-| whoami | used to display the username of the current user |
+| whoami | Used to display the username of the current user |
 
 ### Two useful alias commands for Linux 🐧"
 
