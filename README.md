@@ -1,5 +1,4 @@
-# 🧑🏽About me:
-## 👋 Hi, I'm Luis Angel Arroyo
+# 👋 Hi, I'm Luis Angel Arroyo
 ### 🧑🏽‍💻 A computer systems engineer from Mexico.
 
 📖 I am currently specializing in backend development with Python and frontend development with ReactJS. I am also collaborating with colleagues on the reengineering of the CIMPS congress website.
